@@ -1,0 +1,22 @@
+h1 {
+    color: purple;
+}
+
+h3 {
+  color: pink;
+}
+
+li {
+  color: red;
+}
+
+h1 { font-size: 150%;
+	font-family: Comic Sans MS}
+
+h3 {font-size: 130%; font-family: Comic Sans MS}
+
+li {font-size: 110%; font-family: Comic Sans MS}
+
+body { background-image:url('ftnt.gif');
+ background-repeat: no-repeat;
+background-size: 2730px 1100px}
